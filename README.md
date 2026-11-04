@@ -6,11 +6,13 @@ I'm a Systems Engineering student in the final stage of university, focused on b
 
 Currently, I'm focused on improving my software development skills, building real-world projects and preparing for my first professional opportunity as a Software Developer.
 
+Portfolio: leonardovasquez.vercel.app
+
 ---
 
 ## Featured Project
 
-### CaprichosShop
+### CaprichosShop  
 
 A full-stack sales and management system built for a retail business.
 

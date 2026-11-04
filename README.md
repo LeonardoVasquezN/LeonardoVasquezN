@@ -35,7 +35,6 @@ The system is designed to manage day-to-day business operations, including produ
 - Database management
 - Responsive web interface
 
-🔗 [View the project](https://github.com/LeonardoVasquezN/CaprichosShop)
 
 ---
 
